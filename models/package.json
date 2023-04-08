@@ -1,0 +1,16 @@
+{
+  "name": "seeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "migrate.js",
+  "scripts": {
+    "migrate": "node ./migrate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@builder.io/admin-sdk": "^0.0.5",
+    "dotenv": "^16.0.3",
+    "minimist": "^1.2.8"
+  }
+}
